@@ -3,7 +3,7 @@
     "description": "Article Container for apiato.",
     "type": "apiato-container",
     "require": {
-        "denis-grin-1618/article" : "dev-master"
+        "denis-grin-1618/article" : "dev-main"
     },
     "extra": {
         "apiato": {
