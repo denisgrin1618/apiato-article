@@ -1,0 +1,15 @@
+{
+    "name": "apiato/article",
+    "description": "Article Container for apiato.",
+    "type": "apiato-container",
+    "require": {
+        "test/article" : "dev-master"
+    },
+    "extra": {
+        "apiato": {
+            "container": {
+                "name": "Article"
+            }
+        }
+    }
+}
