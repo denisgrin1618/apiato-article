@@ -1,5 +1,5 @@
 {
-    "name": "apiato/article",
+    "name": "test/article",
     "description": "Article Container for apiato.",
     "type": "apiato-container",
     "require": {
